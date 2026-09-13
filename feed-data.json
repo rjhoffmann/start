@@ -3,33 +3,57 @@
     "id": "hn",
     "items": [
       {
-        "title": "Killing with a car costs $1.6M, California requires drivers to carry $30K",
-        "link": "https://maxmautner.com/2026/09/11/liability-coverage.html",
-        "pubDate": "2026-09-12T22:22",
+        "title": "The Interim Computer Museum",
+        "link": "https://icm.museum/",
+        "pubDate": "2026-09-13T02:43",
         "feedId": "hn"
       },
       {
-        "title": "StarCraft returns in 2030 as an open-world shooter",
-        "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
-        "pubDate": "2026-09-12T22:07",
+        "title": "Align AI and Mathematics–To Something Else",
+        "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+        "pubDate": "2026-09-13T00:47",
         "feedId": "hn"
       },
       {
-        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "pubDate": "2026-09-12T20:28",
+        "title": "Everyone should slow down AI development except for me",
+        "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "pubDate": "2026-09-13T00:30",
+        "feedId": "hn"
+      },
+      {
+        "title": "Recurrent Looped Transformer",
+        "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+        "pubDate": "2026-09-13T00:05",
+        "feedId": "hn"
+      },
+      {
+        "title": "AgentsDock: An IDE designed for agentic AI research",
+        "link": "https://agentsdock.net/",
+        "pubDate": "2026-09-12T23:45",
+        "feedId": "hn"
+      },
+      {
+        "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+        "link": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+        "pubDate": "2026-09-12T23:44",
+        "feedId": "hn"
+      },
+      {
+        "title": "Don't be the out of touch Kung Fu master – John Carmack",
+        "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+        "pubDate": "2026-09-12T21:51",
+        "feedId": "hn"
+      },
+      {
+        "title": "P(doom)",
+        "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+        "pubDate": "2026-09-12T21:35",
         "feedId": "hn"
       },
       {
         "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
         "link": "https://withspecific.com/benchmarks/real-swe",
         "pubDate": "2026-09-12T20:25",
-        "feedId": "hn"
-      },
-      {
-        "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-        "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
-        "pubDate": "2026-09-12T19:57",
         "feedId": "hn"
       },
       {
@@ -67,30 +91,6 @@
         "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
         "pubDate": "2026-09-12T15:08",
         "feedId": "hn"
-      },
-      {
-        "title": "I made a build visualizer to understand Bun's compile times",
-        "link": "https://lalitm.com/post/buildprof/",
-        "pubDate": "2026-09-12T14:45",
-        "feedId": "hn"
-      },
-      {
-        "title": "We must pace the frontier",
-        "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-        "pubDate": "2026-09-12T14:10",
-        "feedId": "hn"
-      },
-      {
-        "title": "A Mathematical Framework for Transformer Circuits (2021)",
-        "link": "https://transformer-circuits.pub/2021/framework/index.html",
-        "pubDate": "2026-09-12T13:56",
-        "feedId": "hn"
-      },
-      {
-        "title": "How Trail of Bits helps verify the integrity of Signal chats",
-        "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-        "pubDate": "2026-09-12T11:27",
-        "feedId": "hn"
       }
     ]
   },
@@ -116,27 +116,39 @@
         "feedId": "lobsters"
       },
       {
-        "title": "Base84 deserves a place in file names",
-        "link": "https://00f.net/2026/09/09/base84/",
-        "pubDate": "2026-09-12T14:38",
-        "feedId": "lobsters"
-      },
-      {
         "title": "xkcd-font: The xkcd font",
         "link": "https://github.com/ipython/xkcd-font",
         "pubDate": "2026-09-12T15:39",
         "feedId": "lobsters"
       },
       {
-        "title": "Pandas Should Go Extinct",
-        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
-        "pubDate": "2026-09-12T04:23",
+        "title": "Base84 deserves a place in file names",
+        "link": "https://00f.net/2026/09/09/base84/",
+        "pubDate": "2026-09-12T14:38",
         "feedId": "lobsters"
       },
       {
         "title": "A Few Good Ideas in Programming Languages",
         "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
         "pubDate": "2026-09-12T18:19",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "A Dick Smith VZ200 without the Dick Smith",
+        "link": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+        "pubDate": "2026-09-13T02:31",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
+        "link": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
+        "pubDate": "2026-09-12T17:24",
+        "feedId": "lobsters"
+      },
+      {
+        "title": "Pandas Should Go Extinct",
+        "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+        "pubDate": "2026-09-12T04:23",
         "feedId": "lobsters"
       },
       {
@@ -152,21 +164,15 @@
         "feedId": "lobsters"
       },
       {
-        "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
-        "link": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
-        "pubDate": "2026-09-12T17:24",
+        "title": "Optimizing a single Rust Clippy lint by 3133X",
+        "link": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
+        "pubDate": "2026-09-12T20:29",
         "feedId": "lobsters"
       },
       {
         "title": "Logo Programming Language",
         "link": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
         "pubDate": "2026-09-12T16:04",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Optimizing a single Rust Clippy lint by 3133X",
-        "link": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
-        "pubDate": "2026-09-12T20:29",
         "feedId": "lobsters"
       },
       {
@@ -179,12 +185,6 @@
         "title": "How Trail of Bits helps verify the integrity of your Signal chats",
         "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
         "pubDate": "2026-09-12T11:28",
-        "feedId": "lobsters"
-      },
-      {
-        "title": "Power grab",
-        "link": "https://tante.cc/2026/09/11/power-grab/",
-        "pubDate": "2026-09-11T14:23",
         "feedId": "lobsters"
       }
     ]
